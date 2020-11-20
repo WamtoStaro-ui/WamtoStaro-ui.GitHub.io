@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wamtostaro-ui.github.io</id>
     <title>Psychoeur</title>
-    <updated>2020-11-20T12:40:12.065Z</updated>
+    <updated>2020-11-20T12:48:28.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wamtostaro-ui.github.io"/>
     <link rel="self" href="https://wamtostaro-ui.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://wamtostaro-ui.github.io/images/avatar.png</logo>
     <icon>https://wamtostaro-ui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Psychoeur</rights>
+    <entry>
+        <title type="html"><![CDATA[修好架构try]]></title>
+        <id>https://wamtostaro-ui.github.io/post/xiu-hao-jia-gou-try/</id>
+        <link href="https://wamtostaro-ui.github.io/post/xiu-hao-jia-gou-try/">
+        </link>
+        <updated>2020-11-20T12:47:32.000Z</updated>
+        <content type="html"><![CDATA[<p>wwwww日常乱调架构の锅</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Psy-Quinn]]></title>
         <id>https://wamtostaro-ui.github.io/post/hello-psy-quinn/</id>
